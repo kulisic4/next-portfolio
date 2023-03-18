@@ -45,7 +45,7 @@ export default function Home() {
             href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h3>Contact &rarr;</h3>
+            <h3>Contact me &rarr;</h3>
             <p>
               Feel free to get in touch with me! You can ask me anything you want!
             </p>
