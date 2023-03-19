@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <h1 className={styles.title}>
-          Hey, I'm <a href="https://github.com/kulisic4">Danilo!</a>
+          Hi, I'm <a href="https://github.com/kulisic4">Danilo!</a>
         </h1>
 
         <p className={styles.description}>
