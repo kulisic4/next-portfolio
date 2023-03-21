@@ -25,7 +25,7 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="posts/about-post" className={styles.card}>
             <h3>About &rarr;</h3>
-            <p>Find out more about my experience as a Developer.</p>
+            <p>Find out more about my experience as a Web Developer.</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
