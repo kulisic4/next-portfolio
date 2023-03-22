@@ -30,7 +30,7 @@ export default function Home() {
 
           <a href="https://nextjs.org/learn" className={styles.card}>
             <h3>My skills &rarr;</h3>
-            <p>Read about my skills in various computer languages.</p>
+            <p>Read about my skills.</p>
           </a>
 
           <a
